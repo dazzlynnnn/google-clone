@@ -64,7 +64,7 @@ const Input = styled.div`
 
 const InputConsol = styled.input`
   border: 1px solid white;
-  widgh: 500px;
+  width: 500px;
   outline: none;
 `
 
